@@ -1,0 +1,2 @@
+# Ordering-App-Template
+OAT is an Android-based template mobile app for developers to advance their knowledge in popular UI framework flutter and laravel Backend framework . It is designed to facilitate the development and operations of mobile app by bringing orders in real-time from the customers in order to fasten the devOps pipeline process. It consists of unique features like live-stock availability and push sales that help a salesman to boost sales exponentially. 
